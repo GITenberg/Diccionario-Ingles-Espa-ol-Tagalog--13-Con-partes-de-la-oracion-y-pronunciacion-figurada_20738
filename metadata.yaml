@@ -1,0 +1,37 @@
+_repo: Diccionario-Ingles-Espa-ol-Tagalog--13-Con-partes-de-la-oracion-y-pronunciacion-figurada_20738
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Calderón, Sofronio G.
+    aliases:
+    - Calderon, Sofronio G.
+    - Calderón, S. G. (Sofronio G.)
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '6178'
+    url: http://www.gutenberg.org/2009/agents/6178
+description: ''
+gutenberg_issued: '2007-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20738'
+language:
+- tl
+- en
+- es
+publication_note: "Primera Edición.\r\nManila\r\nLibreria y Papeleria de J. Martinez,\
+  \ Plaza P. Moraga 34/36, Plaza Calderón 108 y Real 153/155, Intramuros.\r\n1915"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Dictionaries -- Spanish'
+- !lcsh 'English language -- Dictionaries -- Polyglot'
+- !lcc 'PL'
+- !lcsh 'English language -- Dictionaries -- Tagalog'
+title: "Diccionario Ingles-Español-Tagalog\r\nCon partes de la oracion y pronunciacion\
+  \ figurada"
+url: http://www.gutenberg.org/ebooks/20738
