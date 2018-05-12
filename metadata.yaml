@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6178'
     url: http://www.gutenberg.org/2009/agents/6178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20738#Diccionario-Ingles-Espa-ol-Tagalog--13-Con-partes-de-la-oracion-y-pronunciacion-figurada
 gutenberg_issued: '2007-03-04'
 gutenberg_type: Text
 identifiers:
